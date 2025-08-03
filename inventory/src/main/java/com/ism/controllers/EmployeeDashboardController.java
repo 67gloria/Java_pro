@@ -2,7 +2,7 @@ package com.ism.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-
+// dashboard
 public class EmployeeDashboardController {
     @FXML private Button inventoryBtn;
     @FXML private Button stockRequestsBtn;
